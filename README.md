@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+There is my inforCard:
+![名片](../BohengXie/static/inforCard.jpeg "名片")
 <!--
 **BohengXie/BohengXie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
